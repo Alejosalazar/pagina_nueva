@@ -1,0 +1,22 @@
+.fondo1,.fondo2{
+	background:#6c757d;
+
+}
+
+
+body{
+	text-align: center;
+}
+h1{
+	color: #ffc107;
+	font-family: "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+
+.video{
+    
+ border-radius: 800px;
+ border: 2px solid orange;
+   
+
+}
+
